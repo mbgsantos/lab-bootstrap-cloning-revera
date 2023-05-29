@@ -1,0 +1,17 @@
+.first {
+    color: white;
+    background-color: rgb(237, 86, 75);
+}
+
+.second {
+    margin-top: 50px;
+}
+
+#sub {
+    color: rgb(170, 170, 170);
+    font-size: 15px;
+}
+
+.text {
+    font-size: 15px;
+}
